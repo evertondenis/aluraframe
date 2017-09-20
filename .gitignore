@@ -1,0 +1,5 @@
+React
+.vscode
+node_modules/
+.tmp/
+.DS_Store
